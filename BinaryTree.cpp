@@ -17,3 +17,6 @@ int info;
 };
 
 class BinaryTree
+{
+public:
+    
