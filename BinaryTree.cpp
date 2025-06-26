@@ -5,4 +5,5 @@ class Node
 {
 public:
 int info;
+    Node*leftchild;
     
