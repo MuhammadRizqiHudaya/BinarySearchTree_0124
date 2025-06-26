@@ -16,3 +16,4 @@ int info;
     }
 };
 
+class BinaryTree
