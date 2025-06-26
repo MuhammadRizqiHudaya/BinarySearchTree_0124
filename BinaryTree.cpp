@@ -19,4 +19,6 @@ int info;
 class BinaryTree
 {
 public:
-    
+    Node*ROOT;
+
+   
